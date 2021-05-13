@@ -1,0 +1,23 @@
+# exclude all
+/*
+
+# Include Important Folders
+!src/
+!lib/
+
+# Other Files.
+!LICENSE.txt
+!README.md
+
+# Gradle stuff
+!gradle/
+!gradlew
+!gradlew.bat
+!build.gradle
+!settings.gradle
+
+# Include git important files
+!.gitattributes
+!.gitmodules
+!.gitignore
+!.github
